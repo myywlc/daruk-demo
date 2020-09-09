@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/myywlc/daruk-demo#readme",
   "dependencies": {
-    "daruk": "^2.1.0",
+    "daruk": "^2.1.0"
+  },
+  "devDependencies": {
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
   }
